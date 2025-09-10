@@ -1,0 +1,7 @@
+body, 
+nav, 
+header.fi-sidebar-header, 
+header.fi-header, 
+.fi-header{
+    background-color: #d9baf7 !important;
+}
